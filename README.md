@@ -1,5 +1,5 @@
-<b> DataAnalysis_Covid19 </b>
-Data Analysis of JHU CSSE COVID-19 Data with Python
+<b> DataAnalysis_Covid19 </b> <br>
+Data Analysis of JHU CSSE COVID-19 Data with Python <br>
 Raw data: https://github.com/CSSEGISandData/COVID-19
 
 -> German version below
