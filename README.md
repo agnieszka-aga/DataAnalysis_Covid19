@@ -12,9 +12,9 @@ The project consists of four files:
 1) Data Preparation Part 1 - Raw dataset cleansing and preparation for further steps - pandas & numpy
 2) Data Preparation Part 2 - Preparation of additional datasets (population, coordinates) - pandas & numpy
 3) Data Preparation Part 2A / Population Web Scrap - web scraping of population data from 2020 - request & beautifulsoup
-4) Data Visualization - data visualization and analysis (choropleth maps, (interactive) scatter and box plots)- pandas, numpy, plotly, folium, ipywidgets & json -> <b> Please open this file in Jupyter Notebook. Some plots and maps are not displayed here. I'm still working on it... </b>
+4) Data Visualization - data visualization and analysis (choropleth maps, (interactive) scatter and box plots)- pandas, numpy, plotly, folium, ipywidgets & json -> Choropleth maps  are not displayed correctly here (in nbviewer) - I'm working on it...
 
-Since the raw datasets are updated daily, it would make more sense to perform all / most of steps in a single function because now it is necessary to go through all files and update each cleaned/prepared dataset as well as plots / maps manually. That could be the next step...
+Since the raw datasets are updated daily, it would make more sense to perform all / most of steps in a single function because now it is necessary to go through all files and update each cleaned/prepared dataset as well as plots / maps manually. That could be the next step.
 
 -> Deutsche Version
 
@@ -26,6 +26,6 @@ Das Projekt besteht aus vier Dateien:
 1) Data Preparation Part 1 - Bereinigung und Aufbereitung der Rohdaten für die weiteren Bearbeitungsschritte - pandas & numpy
 2) Data Preparation Part 2 - Aufbereitung zusätzlicher Datensätze (Bevölkerung, Koordinaten) - pandas & numpy
 3) Data Preparation Part 2A / Population Web Scrap - Web Scraping von aktuellen (2020) Einwohnerzahlen - request & beautifulsoup
-4) Data Visualization - Datenvisualisierung und -analyse (Choroplethenkarten, (interaktive) Punkt- und Säulendiagramme) -  pandas, numpy, plotly, folium, ipywidgets & json -> <b> Bitte öffnen Sie diese Datei in Jupyter Notebook. Einige Diagramme und Karten werden hier nicht angezeigt. Ich arbeite noch dran... </b>
+4) Data Visualization - Datenvisualisierung und -analyse (Choroplethenkarten, (interaktive) Punkt- und Säulendiagramme) -  pandas, numpy, plotly, folium, ipywidgets & json -> Die Choroplethenkarten werden hier (in nbviewer) nicht korrekt angezeigt. Ich arbeite dran...
 
-Da die Rohdaten täglich aktualisiert werden, wäre es eigentlich sinnvoller, alle / die meisten Schritte in einer Funktion auszuführen. Jetzt muss man alle Dateien und Diagramme/Karten manuell aktualisieren, was relativ umständlich ist. Die Automatisierung aller Schritte könnte der nächste Schritt sein...
+Da die Rohdaten täglich aktualisiert werden, wäre es eigentlich sinnvoller, alle / die meisten Schritte in einer Funktion auszuführen. Jetzt muss man alle Dateien und Diagramme/Karten manuell aktualisieren, was relativ umständlich ist. Die Automatisierung aller Schritte könnte der nächste Schritt sein.
