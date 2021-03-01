@@ -16,7 +16,7 @@ The project consists of four files:
 
 Since the raw datasets are updated daily, it would make more sense to perform all / most of steps in a single function because now it is necessary to go through all files and update each cleaned/prepared dataset as well as plots / maps manually. That could be the next step.
 
--> Deutsche Version
+---------
 
 Das ist mein allererstes Programmierprojekt.
 Das Thema ist leider nicht das Interessanteste, aber es gab einen Grund, warum ich den Covid-19-Datensatz doch analysieren wollte:
